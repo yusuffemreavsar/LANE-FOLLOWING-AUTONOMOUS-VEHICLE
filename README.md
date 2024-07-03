@@ -2,6 +2,7 @@
 
 Autonomous lane following vehicle project developed with image processing methods using Python and Rasperry Pi development board.
 
+![arac4](https://github.com/yusuffemreavsar/Lane-Following-Autonomous-Vehicle/assets/100023813/53a518ef-2627-4d31-a7d7-45bdd548fb3f)
 
 ## Project Summary
 As humans are intelligent, have the ability to think and develop their thoughts, they have been making progress by always developing themselves from the past to the present day. Humans developed simple tools at the beginning. Afterwards, machines run by humans without the need of human power started to be used as a result of the improvement of electric and motor technology. Humans are doing research and making development about machines which work on their own without the necessity of human’s mind and management. As a result, the word of  “Autonomous” is in our lives now. Semi-autonomous technologies are often being used today. Actually, bringing fully autonomous vehicles into people’s lives is what is intended. Some big companies have already produced autonomous vehicles and introduced them to the market. However, we still haven’t fully managed a transition to autonomous vehicles. Autonomous vehicles have advantages and disadvantages. What kind of problems machines that are not controlled by humans might create in the future is not known precisely. Technology advances every day. These ideas that exist are developing with research. Even though we cannot fully achieve a transition to fully autonomous systems, autonomous systems which do not require human mind and control will be developed in the future. This thesis which is formed by taking into account of the autonomous systems’ importance is carried out with the purpose of evaluating the principle of the way autonomous tools work and examining the projects. History of autonomous vehicles, image processing and materiels used in this project are explained. Autonomous vehicles project which is capable of lane keeping is performed.
@@ -21,10 +22,6 @@ The result of the project titled 'AUTONOMOUS CAR THAT CAN FOLLOW THE LANE', whic
 
 -Rasperry Pi Libraries
 ## Project Images
-
-Vehicle
-
-![arac4](https://github.com/yusuffemreavsar/Lane-Following-Autonomous-Vehicle/assets/100023813/53a518ef-2627-4d31-a7d7-45bdd548fb3f)
 
 HSV Filter
 
